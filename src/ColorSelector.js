@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+//The ColorSelector component provides the user interface to select a specific color.
 export default class ColorSelector extends Component {
 
   makeColorSwatches = () => (
